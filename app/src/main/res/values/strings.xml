@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab2.2 User Profile</string>
+    <string name="inputemail">Email</string>
+    <string name="inputID">ID</string>
+    <string name="displayemail">email</string>
+    <string name="getID">ID</string>
+</resources>
